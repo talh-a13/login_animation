@@ -1,6 +1,6 @@
 <h3 align="center">Login Animation</h3>
 
-Welcome to the Login Animation project! This project aims to provide a visually appealing login experience by incorporating day and night mode animations on the login form.
+<h4 align ='center'>Welcome to the Login Animation project!</h4> The project aims to provide a visually appealing login experience by incorporating day and night mode animations on the login form.
 
 ## Features
 
